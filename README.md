@@ -1,4 +1,4 @@
-# Freight Rate Prediction Challenge
+# Freight Rate Prediction
 
 See `Freight_Rate_ML_Assessment.pdf` for the assessment instructions.
 
